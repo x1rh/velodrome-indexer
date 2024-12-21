@@ -126,3 +126,6 @@ To run the tests inside `/test` directory, run
 ```bash
 pnpm test
 ```
+
+
+make deployment
